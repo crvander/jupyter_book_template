@@ -1,0 +1,3 @@
+[submodule "DataEthics_USCriminalJustice"]
+	path = DataEthics_USCriminalJustice
+	url = https://github.com/crvander/DataEthics_USCriminalJustice
