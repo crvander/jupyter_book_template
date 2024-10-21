@@ -16,8 +16,8 @@ version = '0.1.0'
 html_theme = 'sphinx_rtd_theme'
 
 # for pdf/latex
-project: 'Project Name'
-author: 'Carlos van der Ley'
+project: Project Name
+author: Carlos van der Ley
 # sphinx:
 #   config:
 #     latex_logo: 'figures/ucsd_logo.png'
