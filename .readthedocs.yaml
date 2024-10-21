@@ -13,7 +13,7 @@ build:
 #     path: .
 
 sphinx:
-  configuration: docs/
+  configuration: docs/_config.yml
 
 formats:
   - pdf
