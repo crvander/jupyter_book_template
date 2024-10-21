@@ -10,11 +10,6 @@ copyright: 2024  # Copyright year to be placed in the footer
 # copyright = '2024, Carlos van der Ley'
 # logo: figures/ucsd_logo.png
 
-release = '0.1'
-version = '0.1.0'
-
-html_theme = 'sphinx_rtd_theme'
-
 # for pdf/latex
 project: Project Name
 author: Carlos van der Ley
