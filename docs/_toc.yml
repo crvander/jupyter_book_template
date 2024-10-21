@@ -1,0 +1,20 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+# format: jb-book
+# root: intro
+# chapters:
+# - file: chp_1
+# - file: chp_2
+# - file: chp_3
+
+format: jb-book
+root: intro
+parts:
+  - caption: Template for projects
+    numbered: true  # Only applies to chapters in Part 1.
+    chapters:
+    - file: chp_1
+      title: The Goal
+    - file: chp_2
+
